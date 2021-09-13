@@ -1,0 +1,36 @@
+nav
+{
+   
+	display: inline-block;
+	display: flex;
+	text-align: right;
+}
+.bag
+{
+	display:flex;
+	width: 1200px;
+	height: 500px;
+	background: url('image/tof.jpg') center center/ cover;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-content: center;
+}
+.bg
+{
+	text-align: center;
+	display: flex;
+	margin: auto;
+}
+#description
+{
+    text-align: center;
+	justify-content:center;
+	align-items:center;
+	margin: auto;
+    top: 100%;
+}
+footer
+{
+	background-color: rgb(91, 52, 158);
+	color:white;
+}
